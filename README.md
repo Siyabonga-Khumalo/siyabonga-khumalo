@@ -1,5 +1,6 @@
 # Siyabonga Khumalo 👨‍💻  
 
-I build mobile and web solutions.  
-Check out my [portfolio website](https://siyabonga-khumalo.github.io) to see more of my work.  
+Software developer passionate about crafting mobile apps, web platforms, and backend systems.  
+Check out my [portfolio](https://siyabonga-khumalo.github.io) to explore some of my services.  
+
 
