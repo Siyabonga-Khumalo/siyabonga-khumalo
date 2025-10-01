@@ -1,3 +1,5 @@
-# Hi, I'm Siyabonga 👋  
+# Siyabonga Khumalo 👨‍💻  
 
-[🌐 Visit my portfolio website](https://siyabonga-khumalo.github.io)
+I build mobile and web solutions.  
+Check out my [portfolio website](https://siyabonga-khumalo.github.io) to see more of my work.  
+
